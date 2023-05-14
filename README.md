@@ -6,4 +6,4 @@ Para llevar a cabo la correcta usabilidad y medio oportuno de ejecución de las 
 # USOS DEL SISTEMA
 Deberemos de acceder al proceso de codfiicación del sistema y llevar a cabo la ejecución del mismo, donde podremos interactuar con las clases, métodos y funciones de dicho mediante la implicación del menú para este.
 # CREDITOS
-Eldesglose oportuno, viable y eficiente de dicho sistema es atribuido al estudiante de la universidad Tecmilenio Emiliano Flores.
+El desglose oportuno, viable y eficiente de dicho sistema es atribuido al estudiante de la universidad Tecmilenio Emiliano Flores.
